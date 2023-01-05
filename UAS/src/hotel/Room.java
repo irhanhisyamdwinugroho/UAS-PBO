@@ -1,4 +1,4 @@
-package com.hotel;
+package com.Hotel;
 
 
 // Kelas Room untuk menyimpan data kamar
