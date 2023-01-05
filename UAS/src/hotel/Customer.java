@@ -1,4 +1,4 @@
-package com.hotel;
+package com.Hotel;
 
 // Kelas Customer untuk menyimpan data customer
 class Customer {
